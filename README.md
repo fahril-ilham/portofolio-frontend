@@ -35,7 +35,7 @@ Role: Software Engineering Learner | Web Developer
 ## 📌 Project Phases
 - ✅ Phase 1: Static portfolio (HTML & CSS)
 - ✅ Phase 2: Interactive portfolio (JavaScript)
-- ⏳ Phase 3: Backend & Laravel (planned)
+- ⏳ Phase 3+: [Backend & Laravel](https://github.com/fahril-ilham/portofolio-backend)
 
 ---
 
